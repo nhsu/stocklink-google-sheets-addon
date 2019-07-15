@@ -10,11 +10,29 @@ Visit https://stocklink.speran.com for installation instructions.
 ## Examples
 ```
 =TDACCOUNT(123456, "accountValue")
+```
+
+```
 =TDACCOUNT(123456, "moneyMarketFund")
+```
+
+```
 =TDPOSITION(123456, "SPY", "averagePrice")
+```
+
+```
 =TDPOSITION(123456, "SPY", "longQuantity")
+```
+
+```
 =TDPOSITION(123456, "SPY", "marketValue")
+```
+
+```
 =TDQUOTE("SPY", "mark")
+```
+
+```
 =TDQUOTE("SPY", "mark", "2018-01-01")
 ```
 
