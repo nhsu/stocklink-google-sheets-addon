@@ -1,0 +1,1 @@
+# stocklink-google-sheets-addon
